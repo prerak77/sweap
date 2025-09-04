@@ -2,24 +2,6 @@
 
 A React Native mobile application that helps users discover new music through an intuitive swipe-based interface, similar to Tinder but for songs. Users can swipe right to like songs and left to pass, with the app eventually generating personalized Spotify playlists based on their preferences.
 
-## Screenshots
-
-### Onboarding Flow
-![Image](https://github.com/user-attachments/assets/b8a7fdbb-476c-4cb8-86c8-bce3a7cadb40)
-![Image](https://github.com/user-attachments/assets/588bc4cb-d29b-48c8-bb8b-e4c312a925b5)
-
-*The app introduces users to the swiping concept with animated examples*
-
-### Genre & Decade Selection
-![Image](https://github.com/user-attachments/assets/46ca02ac-9df3-4c57-9fab-2a01100c7d72)
-
-*Users select their preferred music genres and decades for personalized recommendations*
-
-### Music Discovery Interface  
-
-![Image](https://github.com/user-attachments/assets/4f6bbec3-b522-47cb-b0f9-60c7a32b815a)
-
-*The main interface displays album artwork with song and artist information*
 
 ## Features
 
