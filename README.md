@@ -5,7 +5,7 @@ A React Native mobile application that helps users discover new music through an
 ## Screenshots
 
 ### Onboarding Flow
-![alt text] (https://github.com/prerak77/sweap/blob/main/screenshots/left%20image.jpeg)
+![Image](https://github.com/user-attachments/assets/b8a7fdbb-476c-4cb8-86c8-bce3a7cadb40)
 ![alt text] (https://github.com/prerak77/sweap/blob/main/screenshots/right%20image.jpeg)
 
 *The app introduces users to the swiping concept with animated examples*
