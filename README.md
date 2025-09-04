@@ -5,17 +5,19 @@ A React Native mobile application that helps users discover new music through an
 ## Screenshots
 
 ### Onboarding Flow
-![alt text]
+![alt text] https://github.com/prerak77/sweap/blob/main/screenshots/left%20image.jpeg
+![alt text] https://github.com/prerak77/sweap/blob/main/screenshots/right%20image.jpeg
 
 *The app introduces users to the swiping concept with animated examples*
 
 ### Genre & Decade Selection
-<img src="preference_page.png" alt="Preference Selection" width="300">
+![alt text] ![alt text] https://github.com/prerak77/sweap/blob/main/screenshots/left%20image.jpeg
+
 
 *Users select their preferred music genres and decades for personalized recommendations*
 
 ### Music Discovery Interface  
-<img src="main_swipe_interface.png" alt="Main Swiping Interface" width="300">
+![alt text] https://github.com/prerak77/sweap/blob/main/screenshots/main%20page.jpeg
 
 *The main interface displays album artwork with song and artist information*
 
